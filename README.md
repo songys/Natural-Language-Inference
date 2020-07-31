@@ -3,10 +3,10 @@
 
 ## 화자(speaker)/필자(writer)의 확신 정도
 
--영어
+- 영어
 Jane knows that it is snowing.
 
--국어
+- 국어
 제인은 눈이 온 것을 안다.
 제인이 눈이 왔다고 안다.
 
@@ -19,7 +19,7 @@ Jane knows that it is snowing.
 국어 : 다수의 논의에서 보문자의 영향을 언급했다.(Lee, C. and D. Chung(2018)등 참조)
 
 
--Between-annotator variability 
+- Between-annotator variability 
 같은 문장이라도 판단하는 사람에 따라 확신성의 정도(degree)가 달리짐
 
 # 관련 논문과 코드
