@@ -26,7 +26,7 @@
 |번호|논문| PDF| CODE |
 |:---:|:-----------------:|:-----------------:|:-----------------:|
 |1|anjiang Jiang and Marie-Catherine de Marneffe. 2019. "Evaluating BERT for natural language inference: a case study on the CommitmentBank." In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019). |[논문 링크](https://www.aclweb.org/anthology/D19-1630.pdf)|-|
-|2||Nanjiang Jiang and Marie-Catherine de Marneffe. 2019. "Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019). Best short paper award.| [논문 링크](https://www.aclweb.org/anthology/P19-1412/)|-|
+|2|Nanjiang Jiang and Marie-Catherine de Marneffe. 2019. "Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019). Best short paper award.| [논문 링크](https://www.aclweb.org/anthology/P19-1412/)|-|
 |3|Marie-Catherine de Marneffe, Mandy Simons and Judith Tonhauser. 2019. "The CommitmentBank: Investigating projection in naturally occurring discourse." In Proceedings of Sinn und Bedeutung 23. |[논문링크](https://semanticsarchive.net/Archive/Tg3ZGI2M/Marneffe.pdf)|https://github.com/songys/CommitmentBank|
 
 
@@ -36,17 +36,19 @@
 
 (논문 5쪽) 확신성의 정도에서 0 인 예시
 
-B: And yet, uh, I we-, I hope to see employer based, you know, helping out. You know, child, uh,care centers at the place of employment and things like that, that will help out.                   
-A: Uh-huh.               
-B: What do you think, do you think we are, setting a trend?                  
+B: And yet, uh, I we-, I hope to see employer based, you know, helping out. You know, child, uh,care centers at the place of employment and things like that, that will help out. 
    
-Hypothesis: they are setting a trend      
-Entailment: Unknown       
+A: Uh-huh.     
+    
+B: What do you think, do you think we are, setting a trend?                   
+     
+Hypothesis: they are setting a trend       
+Entailment: Unknown         
    
 
 데이터 : https://super.gluebenchmark.com/tasks/    
 
- -대상 코펗스 : Wall Street Journal, British National Corpus의 소설, Switchboard    
+ -대상 코퍼스 : Wall Street Journal, British National Corpus의 소설, Switchboard     
 
 
 
