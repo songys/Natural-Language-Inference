@@ -1,6 +1,7 @@
 # Natural-Language-Inference
 자연어의 이해와 추론
 
+
 ## 화자(speaker)/필자(writer)의 확신 정도
 
 - 영어    
@@ -51,6 +52,10 @@ Entailment: Unknown
 
 
 
+## Commitment Bank 외에 Bank 형태의 코퍼스들    
+                    
+-Penn Discourse TreeBank (Miltsakaki et al. 2004) [링크](https://catalog.ldc.upenn.edu/LDC2008T05),       
+-TimeBank(Pustejovsky et al. 2006), [링크](https://catalog.ldc.upenn.edu/LDC2006T08)                
 
 
 
