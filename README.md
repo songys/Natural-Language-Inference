@@ -9,17 +9,16 @@
 - 국어    
 (예) 제인은 눈이 온 것을 안다.   또는 제인이 눈이 왔다고 안다.     
                    
-위의 예와 같이 국어는 보문소('-것, -다고/-라고, -음/-기)와 술어의 결합으로 화자(speaker)/필자(writer)의 확신 정도를 나타내는 것으로 보인다.   
+위의 예와 같이 국어는 보문소('-것, -다고/-라고, -음/-기)와 술어의 결합으로 화자(speaker)/필자(writer)의 확신 정도를 나타낸다.  
 
 ## 데이터 생성시 고려할 점
 
 - Between-item variability
-영어 : 술어의 원형(predicate lemma), 시제, 인칭, finite clausal complements 등이 영향을 미칠 것으로 보았다.(Marneffe(2019)등 참조)     
-국어 : 다수의 논의에서 보문자의 영향을 언급했다.(Lee, C. and D. Chung(2018)등 참조)       
+술어의 원형(predicate lemma) 외에도 시제, 인칭 등이 영향을 미칠 것으로 보인다. 또한 영어에서는 finite clausal complements 에 대한 논의가 있었고 국어에서는 보문자의 영향에 대한 논의가 있었다.(Marneffe(2019), (Lee, C. and D. Chung(2018)등 참조)    
 
 
 - Between-annotator variability 
-같은 문장이라도 판단하는 사람에 따라 확신성의 정도(degree)가 달리짐   
+같은 문장이라도 판단하는 사람에 따라 확신성의 정도(degree)가 달리질 수 있다.   
 
 # 관련 논문과 코드
 
