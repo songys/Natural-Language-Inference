@@ -31,11 +31,9 @@
 # 관련 데이터
 
 ## 영어    
-### 데이터 링크: https://aclweb.org/aclwiki/Textual_Entailment_Resource_Pool
-   
-
-### GLUE 
--관련 논문 : https://w4ngatang.github.io/static/papers/superglue.pdf
+- 영어 데이터 [링크](https://aclweb.org/aclwiki/Textual_Entailment_Resource_Pool)   
+- GLUE 데이터 [링크](https://super.gluebenchmark.com/tasks/)
+- 관련 논문 [링크](https://w4ngatang.github.io/static/papers/superglue.pdf) : Wall Street Journal, British National Corpus의 소설, Switchboard에서 추출됨
 
 (논문 5쪽) 확신성의 정도에서 0 인 예시
 
@@ -47,9 +45,7 @@ B: What do you think, do you think we are, setting a trend?
      
 Hypothesis: they are setting a trend       
 Entailment: Unknown         
-   
-
-- 데이터 :  Wall Street Journal, British National Corpus의 소설, Switchboard에서 추출됨 [링크](https://super.gluebenchmark.com/tasks/)        
+      
 
  
 ## 국어:kakaobrain_KorNLUDatasets                 
