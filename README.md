@@ -25,10 +25,10 @@
 |:---:|:-----------------:|:-----------------:|:-----------------:|
 |1|anjiang Jiang and Marie-Catherine de Marneffe. 2019. "Evaluating BERT for natural language inference: a case study on the CommitmentBank." In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019). |[논문 링크](https://www.aclweb.org/anthology/D19-1630.pdf)|-|
 |2|Nanjiang Jiang and Marie-Catherine de Marneffe. 2019. "Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019). Best short paper award.| [논문 링크](https://www.aclweb.org/anthology/P19-1412/)|-|
-|3|Marie-Catherine de Marneffe, Mandy Simons and Judith Tonhauser. 2019. "The CommitmentBank: Investigating projection in naturally occurring discourse." In Proceedings of Sinn und Bedeutung 23. |[논문링크](https://semanticsarchive.net/Archive/Tg3ZGI2M/Marneffe.pdf)|https://github.com/songys/CommitmentBank|
+|3|Marie-Catherine de Marneffe, Mandy Simons and Judith Tonhauser. 2019. "The CommitmentBank: Investigating projection in naturally occurring discourse." In Proceedings of Sinn und Bedeutung 23. |[논문링크](https://semanticsarchive.net/Archive/Tg3ZGI2M/Marneffe.pdf)|https://github.com/mcdm/CommitmentBank|
 
 
-# 관련 데이터
+# 데이터
 
 ## 영어    
 - 영어 데이터 [링크](https://aclweb.org/aclwiki/Textual_Entailment_Resource_Pool)   
@@ -53,18 +53,19 @@ Entailment: Unknown
     
 - 관련 논문: https://arxiv.org/abs/2004.03289    
 
-## 언어 추론에서 데이터 세트의 방향성   
-
-- 다양한 문장 길이와 문장 형태를 반영한 데이터 세트도 필요하다.         
-- 대규모 데이터 세트 뿐만 아니라 정교하게 구축되어 확장성이 좋은 데이터 세트도 필요하다.(이 글을 쓴 이유이기도 함)         
-  
 
 ## Commitment Bank 외에 Bank 형태의 코퍼스들      
                     
 -Penn Discourse TreeBank (Miltsakaki et al. 2004) [링크](https://catalog.ldc.upenn.edu/LDC2008T05),       
 -TimeBank(Pustejovsky et al. 2006), [링크](https://catalog.ldc.upenn.edu/LDC2006T08)   
 
-## 관련 데이터     
- -Semantic textual similarity (STS)       
+## Semantic textual similarity (STS)       
  마찬가지로 카카오브레인의 KorSTS와 https://github.com/warnikchow/paraKQC 데이터를 참고할 수 있다.
+ 
+ ## 언어 추론에서 데이터 세트의 방향성   
+
+- 다양한 문장 길이와 문장 형태를 반영한 데이터 세트도 필요하다.         
+- 대규모 데이터 세트 뿐만 아니라 정교하게 구축되어 확장성이 좋은 데이터 세트도 필요하다.(이 글을 쓴 이유)         
+  
+
  
