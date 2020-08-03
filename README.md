@@ -6,7 +6,7 @@
 
 ## 데이터 생성시 고려할 점         
 
-- Between-item variability     
+### Between-item variability     
 술어의 원형(predicate lemma) 외에도 시제, 인칭 등이 영향을 미칠 것으로 보인다. 또한 영어에서는 finite clausal complements 에 대한 논의가 있었고 국어에서는 보문소(('-것, -다고/-라고, -음/-기))의 영향에 대한 논의가 있었다.(Marneffe(2019), (Lee, C. and D. Chung(2018)등 참조)    
 
 - 영어    
@@ -16,7 +16,7 @@
 (예) 제인은 눈이 온 것을 안다.   또는 제인이 눈이 왔다고 안다.  
 
 
-- Between-annotator variability     
+### Between-annotator variability     
 같은 문장이라도 판단하는 사람에 따라 확신성의 정도(degree)가 달리질 수 있다. (Marneffe(2019에서 주로 논의됨)                        
 
 # 관련 논문과 코드
@@ -31,11 +31,11 @@
 # 관련 데이터
 
 ## 영어    
-https://aclweb.org/aclwiki/Textual_Entailment_Resource_Pool
+### 데이터 링크: https://aclweb.org/aclwiki/Textual_Entailment_Resource_Pool
    
 
-- GLUE 
-관련 논문 : https://w4ngatang.github.io/static/papers/superglue.pdf
+### GLUE 
+-관련 논문 : https://w4ngatang.github.io/static/papers/superglue.pdf
 
 (논문 5쪽) 확신성의 정도에서 0 인 예시
 
@@ -49,15 +49,13 @@ Hypothesis: they are setting a trend
 Entailment: Unknown         
    
 
-데이터 : https://super.gluebenchmark.com/tasks/        
+- 데이터 :  Wall Street Journal, British National Corpus의 소설, Switchboard에서 추출됨 [링크](https://super.gluebenchmark.com/tasks/)        
 
- -대상 코퍼스 : Wall Street Journal, British National Corpus의 소설, Switchboard     
-     
  
 ## 국어:kakaobrain_KorNLUDatasets                 
-https://github.com/kakaobrain/KorNLUDatasets         
+- 데이터 링크 : https://github.com/kakaobrain/KorNLUDatasets         
     
-관련 논문: https://arxiv.org/abs/2004.03289    
+- 관련 논문: https://arxiv.org/abs/2004.03289    
 
 ## 언어 추론에서 데이터 세트의 방향성   
 
@@ -71,6 +69,6 @@ https://github.com/kakaobrain/KorNLUDatasets
 -TimeBank(Pustejovsky et al. 2006), [링크](https://catalog.ldc.upenn.edu/LDC2006T08)   
 
 ## 관련 데이터     
- -Semantic textual similarity (STS)    
+ -Semantic textual similarity (STS)       
  마찬가지로 카카오브레인의 KorSTS와 https://github.com/warnikchow/paraKQC 데이터를 참고할 수 있다.
  
