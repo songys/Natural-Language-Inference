@@ -49,10 +49,15 @@ Entailment: Unknown
 
  
 ## 국어:kakaobrain_KorNLUDatasets                 
-- 데이터 링크 : https://github.com/kakaobrain/KorNLUDatasets         
+- 데이터 링크 : https://github.com/kakaobrain/KorNLUDatasets           
     
-- 관련 논문: https://arxiv.org/abs/2004.03289    
+- 관련 논문: https://arxiv.org/abs/2004.03289       
 
+- 허깅페이스 페이지 (왼쪽 Dataset에서 kor_nli)에도 들어 있다.  [링크](https://huggingface.co/nlp/viewer/?fbclid=IwAR3gXfTsvaWKj1zW_b00SDsBTKmbudiMOeJQeuRmU8BX5s4c8B9v4Lqe6T4)   
+
+- pip install nlp 로 쓸 수 있다고 한다.      
+
+     
 
 ## Commitment Bank 외에 Bank 형태의 코퍼스들      
                     
