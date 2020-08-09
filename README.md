@@ -70,8 +70,7 @@ Entailment: Unknown
 
 
 
-또 따른 방향으로,  Semantic textual similarity (STS)와도 깊은 관련성이 있다.              
- 마찬가지로 카카오브레인의 KorSTS와 https://github.com/warnikchow/paraKQC 데이터를 참고할 수 있다.           
+또 따른 방향으로는  Semantic textual similarity (STS)와도 깊은 관련성이 있다. 카카오브레인의 KorSTS와 조원익님의 https://github.com/warnikchow/paraKQC 데이터를 참고할 수 있다.           
 
 
 
@@ -80,7 +79,7 @@ Entailment: Unknown
  Anjiang Jiang 은 강연(https://vimeo.com/385255521)에서 truthteller에 대해 언급한 적이 있다. 데이터가 공개적으로 구축되는 경우. 에는 이러한 응용도 고려해 만하다고 생각된다. 하지만 영어에서 truthteller가 아직 안 나오고 있는 것을 통해 어떤 사실에 대해 확신(commitment)의 정도를 측정하는 것이 쉽지 않음을 알 수 있다.                              
 
 
-![truthteller](./truthteller.png)
+![truthteller](./teller.png)
 
 
 ## Commitment Bank 외에 Bank 형태의 코퍼스들       
